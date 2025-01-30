@@ -23,7 +23,7 @@ Intalación de las herramientas Pandas, SQLAlchemy y Pyodbc por medio de CMD
 Se necesita descargar los csv
 Dataset 1:
   Link: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021/data
-Dataset 1:
+Dataset 2:
   Link: https://www.kaggle.com/datasets/mexwell/steamgames
 
 Luego de descargar los csv deben colocarse dentro de una carpeta llamada Data dentro de la carpeta del proyecto y luego se puede ejecutar el código.
